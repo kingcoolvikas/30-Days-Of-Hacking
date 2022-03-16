@@ -15,7 +15,7 @@ Hello Guys, Im doing a challenge "30 Days of Hacking". I will try to learn somet
  - [OPTIONAL} Watch Any Bug Bounty Videos On Youtube.
  - Update This Repo Daily.
 
-# Start Date & End Date Here
+## Start Date & End Date Here
 
 | Start Date  |  Probable End Date    |
 | ----------- |  ------------- |
@@ -23,8 +23,8 @@ Hello Guys, Im doing a challenge "30 Days of Hacking". I will try to learn somet
 
 
 ---
-## [30 Days Challenge Starts Here]
+## 30 Days Challenge Starts Here
 
 Day | What I Learned Today
 --- | ---
-**1** |  [Day 1 Summary Here](/Days/Day-1.md)
+**1** |  [Read 3 Article [DONE], TryHackMe & PortSwigger Lab [DONE], Youtube Video [DONE] [READ Full Summery Here](/Days/Day-1.md)
