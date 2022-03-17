@@ -28,3 +28,5 @@ Hello Guys, Im doing a challenge "30 Days of Hacking". I will try to learn somet
 Day | What I Learned Today
 --- | ---
 **1** |  [Read 3 Article [DONE], TryHackMe & PortSwigger Lab [DONE], Youtube Video [DONE] [READ Full Summery Here](/Days/Day-1.md)
+**2** |  [Read 3 Article [DONE], TryHackMe & PortSwigger Lab [DONE], Youtube Video [DONE] [READ Full Summery Here](/Days/Day-2.md)
+
