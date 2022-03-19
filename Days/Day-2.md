@@ -32,7 +32,7 @@
 
 ### 3. PortSwigger Labs: [DONE]
 
-- [X] **Solved Directory traversal**
+- [X] **Directory traversal (4/6)**
  -  Lab: File path traversal, traversal sequences stripped non-recursively (https://portswigger.net/web-security/file-path-traversal/lab-sequences-stripped-non-recursively)
  -  Lab: File path traversal, traversal sequences stripped with superfluous URL-decode (https://portswigger.net/web-security/file-path-traversal/lab-superfluous-url-decode)
  
