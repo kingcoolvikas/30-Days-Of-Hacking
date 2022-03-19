@@ -27,7 +27,7 @@ Hello Guys, Im doing a challenge "30 Days of Hacking". I will try to learn somet
 
 Day | What I Learned Today
 --- | ---
-**1** |  [Read 3 Article [DONE], TryHackMe & PortSwigger Lab [DONE], Youtube Video [DONE] [READ Full Day1 Summary Here](/Days/Day-1.md)
-**2** |  [Read 3 Article [DONE], TryHackMe & PortSwigger Lab [DONE], Youtube Video [DONE] [READ Full Day2 Summary Here](/Days/Day-2.md)
-**3** |  [Read 3 Article [DONE], TryHackMe & PortSwigger Lab [DONE], Youtube Video [DONE] [READ Full Day3 Summary Here](/Days/Day-3.md)
-
+**1** |  [Read 3 Article On Medium [DONE], TryHackMe Room (Metasploit, Dirty Pipe (Half Solved)) & PortSwigger Lab On (Directory Traversal) (2/6) [DONE], Youtube Video Watched OrwaGodFather Part 1 [DONE] [READ Full Day1 Summary Here](/Days/Day-1.md)
+**2** |  [Read 3 Article On Medium [DONE], TryHackMe Room (Metasploit, Dirty Pipe (Full Done)) & PortSwigger Lab On (Directory Traversal) (4/6) [DONE], Youtube Video Watched OrwaGodFather Part 2 [DONE] [READ Full Day2 Summary Here](/Days/Day-2.md)
+**3** |  [Read 3 Article On Medium [DONE], TryHackMe Room (TMUX) & PortSwigger Lab On (Directory Traversal) (6/6) [DONE], Youtube Video Watched OrwaGodFather Part 3 [DONE] [READ Full Day3 Summary Here](/Days/Day-3.md)
+**4** |  [Read 3 Article On Medium [DONE], TryHackMe Room (REmux The Tmux, OWASP ZAP) & PortSwigger Lab On (Access control vulnerabilities) (3/13) [DONE], Youtube Video Watched OrwaGodFather Part 4 [DONE] [READ Full Day4 Summary Here](/Days/Day-4.md)
