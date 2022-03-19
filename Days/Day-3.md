@@ -30,7 +30,7 @@
 
 ### 3. PortSwigger Labs: [DONE]
 
-- [X] **Fully Solved Directory traversal Labs**
+- [X] **Directory traversal Labs (6/6)**
  -  Lab: Lab: File path traversal, validation of start of path (https://portswigger.net/web-security/file-path-traversal/lab-validate-start-of-path)
  -  Lab: Lab: File path traversal, validation of file extension with null byte bypass (https://portswigger.net/web-security/file-path-traversal/lab-validate-file-extension-null-byte-bypass)
 
