@@ -24,7 +24,7 @@
 
 ### 3. PortSwigger Labs: [DONE]
 
-- [X] **Solved Directory traversal**
+- [X] **Directory traversal 2/6**
  -  Lab: File path traversal, simple case (https://portswigger.net/web-security/file-path-traversal/lab-simple)
  -  Lab: File path traversal, traversal sequences blocked with absolute path bypass (https://portswigger.net/web-security/file-path-traversal/lab-absolute-path-bypass)
 
