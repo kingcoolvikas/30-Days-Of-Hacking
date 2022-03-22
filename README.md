@@ -33,4 +33,5 @@ Day | What I Learned Today
 **4** |  [Read 3 Article On Medium [DONE], TryHackMe Room (REmux The Tmux, OWASP ZAP) & PortSwigger Lab On (Access control vulnerabilities) (3/13) [DONE], Youtube Video Watched OrwaGodFather Part 4 [DONE] [READ Full Day4 Summary Here](/Days/Day-4.md)
 **5** |  [Read 3 Article On Medium [DONE], TryHackMe Room (Hydra, Sublist3r) & PortSwigger Lab On (Access control vulnerabilities) (7/13) [DONE], Youtube Video Watched : BittenTech HTTP Security Headers [HALF DONE] [READ Full Day5 Summary Here](/Days/Day-5.md)
 **6** |  [Read 3 Article On Medium [DONE], TryHackMe Room (Toolbox: Vim, Phishing: HiddenEye) & PortSwigger Lab On (Access control vulnerabilities) (9/13) [DONE], Youtube Video Watched : BittenTech HTTP Security Headers [FULL DONE] [READ Full Day6 Summary Here](/Days/Day-6.md)
+**7** |  [Read 3 Article On Medium [DONE], TryHackMe Room (RustScan, Nessus) & PortSwigger Lab On (Access control vulnerabilities) (11/13) [DONE], Youtube Video : [TODAY TIRED AF HAVEN'T WATCHED ANYTHING] [READ Full Day7 Summary Here](/Days/Day-7.md)
 
