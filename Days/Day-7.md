@@ -1,4 +1,4 @@
-# Day-6 (30-Days-Of-Hacking)
+# Day-7 (30-Days-Of-Hacking)
 
 ### 1. Read 3 Article: [DONE]
 
