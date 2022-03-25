@@ -36,4 +36,5 @@ Day | What I Learned Today
 **7** |  [Read 3 Article On Medium [DONE], TryHackMe Room (RustScan, Nessus) & PortSwigger Lab On (Access control vulnerabilities) (11/13) [DONE], Youtube Video : [TODAY TIRED AF HAVEN'T WATCHED ANYTHING] [READ Full Day7 Summary Here](/Days/Day-7.md)
 **8** |  [Read 3 Article On Medium [DONE], TryHackMe Room (Tshark) & PortSwigger Lab On (Access control vulnerabilities) (12/13) [DONE], Youtube Video : Watched Arjun Tool By Intigriti [DONE] [READ Full Day8 Summary Here](/Days/Day-8.md)
 **9** |  [Read 3 Article On Medium [DONE], TryHackMe Room (FFUF) & PortSwigger Lab On (Access control vulnerabilities) (13/13) [DONE], Youtube Video : Watched JWT_Tool.py Video By Intigriti [DONE] [READ Full Day9 Summary Here](/Days/Day-9.md)
+**10** |  [Read 3 Article On Medium [DONE], TryHackMe Room (WebAppSec 101) & PortSwigger Lab On (Information disclosure) (1/5) [DONE], Youtube Video : Watched WP_scan Video By Intigriti [DONE] [READ Full Day10 Summary Here](/Days/Day-10.md)
 
