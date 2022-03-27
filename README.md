@@ -38,5 +38,6 @@ Day | What I Learned Today
 **9** |  [Read 3 Article On Medium [DONE], TryHackMe Room (FFUF) & PortSwigger Lab On (Access control vulnerabilities) (13/13) [DONE], Youtube Video : Watched JWT_Tool.py Video By Intigriti [DONE] [READ Full Day9 Summary Here](/Days/Day-9.md)
 **10** |  [Read 3 Article On Medium [DONE], TryHackMe Room (WebAppSec 101) & PortSwigger Lab On (Information disclosure) (1/5) [DONE], Youtube Video : Watched WP_scan Video By Intigriti [DONE] [READ Full Day10 Summary Here](/Days/Day-10.md)
 **11** |  [Read 3 Article On Medium [DONE], TryHackMe Room (Wifi Hacking 101) [HALF DONE] & PortSwigger Lab On (Information disclosure) (2/5) [DONE], Youtube Video  [TODAY TIRED AF HAVEN'T WATCHED ANYTHING] [READ Full Day11 Summary Here](/Days/Day-11.md)
+**12** |  [Read 3 Article On Medium [DONE], TryHackMe Room (Wifi Hacking 101) [HALF DONE] & PortSwigger Lab On (Information disclosure) (3/5) [DONE], Youtube Video  [TODAY TIRED AF HAVEN'T WATCHED ANYTHING] [READ Full Day12 Summary Here](/Days/Day-12.md)
 
 
