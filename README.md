@@ -39,5 +39,6 @@ Day | What I Learned Today
 **10** |  [Read 3 Article On Medium [DONE], TryHackMe Room (WebAppSec 101) & PortSwigger Lab On (Information disclosure) (1/5) [DONE], Youtube Video : Watched WP_scan Video By Intigriti [DONE] [READ Full Day10 Summary Here](/Days/Day-10.md)
 **11** |  [Read 3 Article On Medium [DONE], TryHackMe Room (Wifi Hacking 101) [HALF DONE] & PortSwigger Lab On (Information disclosure) (2/5) [DONE], Youtube Video  [TODAY TIRED AF HAVEN'T WATCHED ANYTHING] [READ Full Day11 Summary Here](/Days/Day-11.md)
 **12** |  [Read 3 Article On Medium [DONE], TryHackMe Room (Wifi Hacking 101) [HALF DONE] & PortSwigger Lab On (Information disclosure) (3/5) [DONE], Youtube Video  [TODAY TIRED AF HAVEN'T WATCHED ANYTHING] [READ Full Day12 Summary Here](/Days/Day-12.md)
+**13** |  [Read 3 Article On Medium [DONE], TryHackMe Room (Wifi Hacking 101) [DONE] & PortSwigger Lab On (Information disclosure) (4/5) [DONE], Youtube Video  [TODAY TIRED AF HAVEN'T WATCHED ANYTHING] [READ Full Day13 Summary Here](/Days/Day-13.md)
 
 
