@@ -42,6 +42,8 @@ Day | What I Learned Today
 **13** |  [Read 3 Article On Medium [DONE], TryHackMe Room (Wifi Hacking 101) [DONE] & PortSwigger Lab On (Information disclosure) (4/5) [DONE], Youtube Video  [TODAY TIRED AF HAVEN'T WATCHED ANYTHING] [READ Full Day13 Summary Here](/Days/Day-13.md)
 **14** |  [Read 3 Article On Medium [DONE], TryHackMe Room (Brute It) [HALF DONE] & PortSwigger Lab On (Information disclosure) (5/5) [DONE], Youtube Video  [TODAY TIRED AF HAVEN'T WATCHED ANYTHING] [READ Full Day14 Summary Here](/Days/Day-14.md)
 **15** |  [Read 3 Article On Medium [DONE], TryHackMe Room (Brute It) [DONE] & PortSwigger Lab On (Authentication) (1/14) [DONE], Youtube Video  [TODAY TIRED AF HAVEN'T WATCHED ANYTHING] [READ Full Day15 Summary Here](/Days/Day-15.md)
+**16** |  [Read 3 Article On Medium [DONE], TryHackMe Room (Crack The Hash) [DONE] & PortSwigger Lab On (Authentication) (2/14) [DONE], Youtube Video  [TODAY TIRED AF HAVEN'T WATCHED ANYTHING] [READ Full Day16 Summary Here](/Days/Day-16.md)
+
 
 
 
