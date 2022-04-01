@@ -4,7 +4,7 @@
 
 - https://medium.com/@vivekkashyap0707/my-first-rce-from-n-a-to-triaged-cve-2021-3064-acdd0541c664
 - https://medium.com/@rupachandransangothi22/host-header-injection-leads-to-pre-account-takeover-worth-100-1bd8f2d51876
-- https://medium.com/@sonawanerushab400/story-of-instagram-open-redirect-fdadf64a1c
+- https://medium.com/@mrempy/cross-site-scripting-xss-via-image-rendering-application-f8427afe746d
 
 #### Learned:
 
