@@ -48,6 +48,7 @@ Day | What I Learned Today
 **16** |  [Read 3 Article On Medium [**DONE**], TryHackMe Room (Crack The Hash) [**DONE**] & PortSwigger Lab On (Authentication) (2/14) [**DONE**], Youtube Video  [TODAY TIRED AF HAVEN'T WATCHED ANYTHING] [READ Full Day16 Summary Here](/Days/Day-16.md)
 **17** |  [Read 3 Article On Medium [**DONE**], TryHackMe Room (Crack The Hash Level 2) [**HALF DONE**] & PortSwigger Lab On (Authentication) (3/14) [**DONE**], Youtube Video  Confidential Document (Sensitive Data Exposure) [**DONE**] [READ Full Day17 Summary Here](/Days/Day-17.md)
 **18** |  [Read 3 Article On Medium [**DONE**], TryHackMe Room (Crack The Hash Level 2) [**HALF DONE**] & PortSwigger Lab On (Authentication) (4/14) [**DONE**], Youtube Video : FIND HIDDEN PARAMETERS WITH PARAMINER [**DONE**] [READ Full Day18 Summary Here](/Days/Day-18.md)
+**19** |  [Read 3 Article On Medium [**DONE**], TryHackMe Room (Crack The Hash Level 2) [**HALF DONE**] & PortSwigger Lab On (Authentication) (5/14) [**DONE**], Youtube Video : How to approach sensitive information disclosure [**DONE**] [READ Full Day19 Summary Here](/Days/Day-19.md)
 
 
 
