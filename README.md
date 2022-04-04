@@ -49,6 +49,7 @@ Day | What I Learned Today
 **17** |  [Read 3 Article On Medium [**DONE**], TryHackMe Room (Crack The Hash Level 2) [**HALF DONE**] & PortSwigger Lab On (Authentication) (3/14) [**DONE**], Youtube Video  Confidential Document (Sensitive Data Exposure) [**DONE**] [READ Full Day17 Summary Here](/Days/Day-17.md)
 **18** |  [Read 3 Article On Medium [**DONE**], TryHackMe Room (Crack The Hash Level 2) [**HALF DONE**] & PortSwigger Lab On (Authentication) (4/14) [**DONE**], Youtube Video : FIND HIDDEN PARAMETERS WITH PARAMINER [**DONE**] [READ Full Day18 Summary Here](/Days/Day-18.md)
 **19** |  [Read 3 Article On Medium [**DONE**], TryHackMe Room (Crack The Hash Level 2) [**HALF DONE**] & PortSwigger Lab On (Authentication) (5/14) [**DONE**], Youtube Video : How to approach sensitive information disclosure [**DONE**] [READ Full Day19 Summary Here](/Days/Day-19.md)
+**20** |  [Read 3 Article On Medium [**DONE**], TryHackMe Room (Crack The Hash Level 2) [**DONE**] & PortSwigger Lab On (Authentication) (6/14) [**DONE**], Youtube Video : 2FA bypasses: Logical Thinking for contexts By Aditya Shinde On Securzy [**DONE**] [READ Full Day20 Summary Here](/Days/Day-20.md)
 
 
 
