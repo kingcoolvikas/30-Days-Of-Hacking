@@ -51,6 +51,7 @@ Day | What I Learned Today
 **19** |  [Read 3 Article On Medium [**DONE**], TryHackMe Room (Crack The Hash Level 2) [**HALF DONE**] & PortSwigger Lab On (Authentication) (5/14) [**DONE**], Youtube Video : How to approach sensitive information disclosure [**DONE**] [READ Full Day19 Summary Here](/Days/Day-19.md)
 **20** |  [Read 3 Article On Medium [**DONE**], TryHackMe Room (Crack The Hash Level 2) [**DONE**] & PortSwigger Lab On (Authentication) (6/14) [**DONE**], Youtube Video : 2FA bypasses: Logical Thinking for contexts By Aditya Shinde On Securzy [**DONE**] [READ Full Day20 Summary Here](/Days/Day-20.md)
 **21** |  [Read 3 Article On Medium [**DONE**], TryHackMe Room (Spring4Shell) [**DONE**] & PortSwigger Lab On (Authentication) (7/14) [**DONE**], Youtube Video : How To Hunt: Cross-Site Request Forgery (CSRF) - Kathan Patel [**DONE**] [READ Full Day21 Summary Here](/Days/Day-21.md)
+**22** |  [Read 3 Article On Medium [**DONE**], TryHackMe Room (Agent Sudo CTF) [**DONE**] & PortSwigger Lab On (Authentication) (8/14) [**DONE**], Youtube Video : 5 Methods to bypass Authentication (OTP) [**DONE**] [READ Full Day22 Summary Here](/Days/Day-22/Day-22.md)
 
 
 
