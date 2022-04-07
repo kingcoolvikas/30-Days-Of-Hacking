@@ -8,11 +8,11 @@
 
 #### Learned:
 
-![Article_1](Day-22_Article_1.png)
+![Article_1](Day-22_Article-1.png)
 
-![Article_2](Day-22_Article_2.png)
+![Article_2](Day-22_Article-2.png)
 
-![Article_3](Day-22_Article_3.png)
+![Article_3](Day-22_Article-3.png)
 
 
 ### 2. TryHackMe Labs: [DONE]
