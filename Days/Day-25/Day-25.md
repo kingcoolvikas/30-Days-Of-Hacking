@@ -22,7 +22,7 @@
 
 ### 3. PortSwigger Labs: [DONE]
 
- - [X] **Authentication (10/14)**
+ - [X] **Authentication (11/14)**
  -  Lab: Password reset poisoning via middleware   (https://portswigger.net/web-security/authentication/other-mechanisms/lab-password-reset-poisoning-via-middleware)
 
 ### 4. Youtube Video: [DONE]
