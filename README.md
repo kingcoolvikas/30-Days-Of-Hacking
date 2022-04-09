@@ -54,6 +54,7 @@ Day | What I Learned Today
 **22** |  [Read 3 Article On Medium [**DONE**], TryHackMe Room (Agent Sudo CTF) [**DONE**] & PortSwigger Lab On (Authentication) (8/14) [**DONE**], Youtube Video : 5 Methods to bypass Authentication (OTP) [**DONE**] [READ Full Day22 Summary Here](/Days/Day-22/Day-22.md)
 **23** |  [Read 3 Article On Medium [**DONE**], TryHackMe Room (Web Scanning) [**DONE**] & PortSwigger Lab On (Authentication) (9/14) [**DONE**], Youtube Video : IDOR vulnerability  [**DONE**] [READ Full Day23 Summary Here](/Days/Day-23/Day-23.md)
 **24** |  [Read 3 Article On Medium [**DONE**], TryHackMe Room (Inclusion) [**DONE**] & PortSwigger Lab On (Authentication) (10/14) [**DONE**], Youtube Video : Bypassing a WAF by Finding the Origin IP  [**DONE**] [READ Full Day24 Summary Here](/Days/Day-24/Day-24.md)
+**25** |  [Read 3 Article On Medium [**DONE**], TryHackMe Room (Lfi Basics) [**DONE**] & PortSwigger Lab On (Authentication) (11/14) [**DONE**], Youtube Video : Bruteforce Attacks and Bypassing Rate Limits with Fireprox  [**DONE**] [READ Full Day25 Summary Here](/Days/Day-25/Day-25.md)
 
 
 
