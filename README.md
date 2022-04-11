@@ -56,6 +56,7 @@ Day | What I Learned Today
 **24** |  [Read 3 Article On Medium [**DONE**], TryHackMe Room (Inclusion) [**DONE**] & PortSwigger Lab On (Authentication) (10/14) [**DONE**], Youtube Video : Bypassing a WAF by Finding the Origin IP  [**DONE**] [READ Full Day24 Summary Here](/Days/Day-24/Day-24.md)
 **25** |  [Read 3 Article On Medium [**DONE**], TryHackMe Room (Lfi Basics) [**DONE**] & PortSwigger Lab On (Authentication) (11/14) [**DONE**], Youtube Video : Bruteforce Attacks and Bypassing Rate Limits with Fireprox  [**DONE**] [READ Full Day25 Summary Here](/Days/Day-25/Day-25.md)
 **26** |  [Read 3 Article On Medium [**DONE**], TryHackMe Room (Injection) [**DONE**] & PortSwigger Lab On (Authentication) (12/14) [**DONE**], Youtube Video : Learn With RogueSMG: Fuzzing Path For Finding Info Leaks and More !!  [**DONE**] [READ Full Day26 Summary Here](/Days/Day-26/Day-26.md)
+**27** |  [Read 3 Article On Medium [**DONE**], TryHackMe Room (Vulnversity) [**DONE**] & PortSwigger Lab On (Authentication) (13/14) [**DONE**], Youtube Video : Browser in the Browser Attack || Advaced Phishing technique  [**DONE**] [READ Full Day27 Summary Here](/Days/Day-27/Day-27.md)
 
 
 
