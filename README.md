@@ -58,7 +58,8 @@ Day | What I Learned Today
 **26** |  [Read 3 Article On Medium [**DONE**], TryHackMe Room (Injection) [**DONE**] & PortSwigger Lab On (Authentication) (12/14) [**DONE**], Youtube Video : Learn With RogueSMG: Fuzzing Path For Finding Info Leaks and More !!  [**DONE**] [READ Full Day26 Summary Here](/Days/Day-26/Day-26.md)
 **27** |  [Read 3 Article On Medium [**DONE**], TryHackMe Room (Vulnversity) [**DONE**] & PortSwigger Lab On (Authentication) (13/14) [**DONE**], Youtube Video : Browser in the Browser Attack  [**DONE**] [READ Full Day27 Summary Here](/Days/Day-27/Day-27.md)
 **28** |  [Read 3 Article On Medium [**DONE**], TryHackMe Room (SSTI And Juicy Details) [**DONE**] & PortSwigger Lab On (OS Command Injection) (3/5) [**DONE**], Youtube Video : Server Side Template Injection Explanation & Exploitation  [**DONE**] [READ Full Day28 Summary Here](/Days/Day-28/Day-28.md)
-**29** |  [Read 3 Article On Medium [**DONE**], TryHackMe Room (Linux Server Forensics) [**DONE**] & PortSwigger Lab On (OS Command Injection) (4/5) [**DONE**], Youtube Video : Bug Bounty Redacted #2: Third Party Subdomain Takeover & Exposed Admin Interfaces  [**DONE**] [READ Full Day29 Summary Here](/Days/Day-29/Day-29.md)
+**29** |  [Read 3 Article On Medium [**DONE**], TryHackMe Room (Linux Server Forensics) [**HALF DONE**] & PortSwigger Lab On (OS Command Injection) (4/5) [**DONE**], Youtube Video : Bug Bounty Redacted #2: Third Party Subdomain Takeover & Exposed Admin Interfaces  [**DONE**] [READ Full Day29 Summary Here](/Days/Day-29/Day-29.md)
+**30** |  [Read 3 Article On Medium [**DONE**], TryHackMe Room (Linux Server Forensics) [**DONE**] & PortSwigger Lab On (OS Command Injection) (5/5) [**DONE**], Youtube Video : [Hindi] Manual Recon For Begineers   [**DONE**] [READ Full Day30 Summary Here](/Days/Day-30/Day-30.md)
 
 
 
