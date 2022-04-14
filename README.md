@@ -1,8 +1,10 @@
-# 30-Days-Of-Hacking
+# 30-Days-Of-Hacking | Completed On 14th April 2022 (On time🤞)
 
 _Author : Vikas Anand_
 
 Hello Guys, Im doing a challenge "30 Days of Hacking". I will try to learn something everyday and whatever i learn i will share it here for the next 30 Days Continuously.
+
+![completed](/Days/Completed.png)
 
 
 ### So Why I'm Doing This 30-Days-Of-Hacking ?
@@ -20,7 +22,7 @@ Hello Guys, Im doing a challenge "30 Days of Hacking". I will try to learn somet
 
 ## Start Date & End Date Here
 
-| Start Date  |  Probable End Date    |
+| Start Date  |  Completed On    |
 | ----------- |  ------------- |
 | 16th March, 2022 |  14th April, 2022 |
 
@@ -61,5 +63,5 @@ Day | What I Learned Today
 **29** |  [Read 3 Article On Medium [**DONE**], TryHackMe Room (Linux Server Forensics) [**HALF DONE**] & PortSwigger Lab On (OS Command Injection) (4/5) [**DONE**], Youtube Video : Bug Bounty Redacted #2: Third Party Subdomain Takeover & Exposed Admin Interfaces  [**DONE**] [READ Full Day29 Summary Here](/Days/Day-29/Day-29.md)
 **30** |  [Read 3 Article On Medium [**DONE**], TryHackMe Room (Linux Server Forensics) [**DONE**] & PortSwigger Lab On (OS Command Injection) (5/5) [**DONE**], Youtube Video : [Hindi] Manual Recon For Begineers   [**DONE**] [READ Full Day30 Summary Here](/Days/Day-30/Day-30.md)
 
-
+## Finally Completed Exactly On 14th April 2022.
 
